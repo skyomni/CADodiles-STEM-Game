@@ -69,5 +69,4 @@ Install required Python libraries (Kivy, GPIO libraries).
 
 ### 3. Clone Repository
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
-cd YOUR-REPO-NAME
+git clone https://github.com/skyomni/CADodiles-STEM-Game.git
