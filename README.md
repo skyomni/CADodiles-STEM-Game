@@ -40,6 +40,14 @@ The project is powered by a Raspberry Pi Zero 2 WH and uses a Python-based appli
 
 ---
 
+## File Structure
+
+- `main.py` – main application and game loop  
+- `config.py` – configuration settings  
+- `hardware.py` – GPIO and hardware control  
+- `translations.py` – text and UI strings  
+
+---
 ## How It Works
 1. User selects a game mode and topic  
 2. A question is displayed on the touchscreen  
