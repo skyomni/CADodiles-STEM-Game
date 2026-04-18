@@ -33,6 +33,13 @@ The project is powered by a Raspberry Pi Zero 2 WH and uses a Python-based appli
 
 ---
 
+## Tools Used
+- Kivy (Python UI framework)
+- Raspberry Pi OS / Pi Imager
+- Kivy UI Designer (used for prototyping interface layouts): https://labdeck.com/kivy-tutorial/kivy-ui-designer/
+
+---
+
 ## How It Works
 1. User selects a game mode and topic  
 2. A question is displayed on the touchscreen  
