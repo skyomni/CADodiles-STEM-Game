@@ -48,6 +48,21 @@ The project is powered by a Raspberry Pi Zero 2 WH and uses a Python-based appli
 - `translations.py` – text and UI strings  
 
 ---
+
+## 📁 CAD Files
+
+SolidWorks parts, assemblies, and exported 3D models are available in the following folder:
+
+`Solidworks Files and 3D Models/`
+
+### Contents:
+- Native SolidWorks part (`.SLDPRT`) and assembly (`.SLDASM`) files  
+- Exported 3D models for viewing and presentation  
+
+These files document the mechanical design of the system and can be used for further modification, analysis, or replication.
+
+---
+
 ## How It Works
 1. User selects a game mode and topic  
 2. A question is displayed on the touchscreen  
