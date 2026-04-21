@@ -49,7 +49,7 @@ The project is powered by a Raspberry Pi Zero 2 WH and uses a Python-based appli
 
 ---
 
-## 📁 CAD Files
+## CAD Files
 
 SolidWorks parts, assemblies, and exported 3D models are available in the following folder:
 
